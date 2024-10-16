@@ -1,2 +1,8 @@
-Program counter: FFFC
-Stack pointer: 100
+FFFE
+0
+1
+0
+0
+80
+0
+1
